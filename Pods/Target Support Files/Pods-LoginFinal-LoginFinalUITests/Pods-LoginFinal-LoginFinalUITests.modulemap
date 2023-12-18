@@ -1,0 +1,6 @@
+framework module Pods_LoginFinal_LoginFinalUITests {
+  umbrella header "Pods-LoginFinal-LoginFinalUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
